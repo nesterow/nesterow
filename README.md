@@ -3,11 +3,11 @@
 #### Full-stack software dev. Passionate. Experienced.
 ---
 ### Skills
-- [x] Python - Jupyter, PyTorch, Django, Flask
-- [x] NodeJS - TypeORM, AdonisJS, Express
-- [x] Databases - PostgreSQL, MySQL, MongoDB
-- [x] JavaScript - Vanilla, Svelte, Vue, Vuex
+- [x] JavaScript - Vanilla, TypeScript, Deno
+- [x] NodeJS - Express, TypeORM
+- [x] Databases - PostgreSQL, MongoDB
 - [x] DevOps - Docker, Nomad, Bash, CI/CD (gitlab, onedev)
+- [x] Python - PyTorch, Django, Flask
 
 ### Traits
 - [x] Fast learner
