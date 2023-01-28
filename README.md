@@ -9,9 +9,6 @@
 - [x] DevOps - Docker, Nomad, Bash, CI/CD (gitlab, onedev)
 - [x] Python - PyTorch, Django, Flask
 
-### Traits
-- [x] Fast learner
-- [x] Problem solver
 
 <h4 class="text-center"> Contact me </h4>
 <a href="https://t.me/AntonNesterov" target="_blank">
