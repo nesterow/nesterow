@@ -2,7 +2,6 @@
 
 #### Full-stack software dev. Passionate. Experienced.
 ---
-### Skills
 - [x] JavaScript - Vanilla, TypeScript, Deno
 - [x] NodeJS - Express, TypeORM
 - [x] Databases - PostgreSQL, MongoDB
