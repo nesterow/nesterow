@@ -1,4 +1,4 @@
-<img width="100%" src="assets/headline.gif" />
+<!--img width="100%" src="assets/headline.gif" -->
 
 #### Full-stack software dev. Passionate. Experienced.
 ---
