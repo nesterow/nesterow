@@ -5,7 +5,7 @@
 - [x] JavaScript - Vanilla, TypeScript, Deno
 - [x] NodeJS - Express, TypeORM
 - [x] Databases - PostgreSQL, MongoDB
-- [x] DevOps - Docker, Nomad, Bash, CI/CD (gitlab, onedev)
+- [x] DevOps - K8S, Docker, Bash, CI/CD (gitlab, onedev)
 - [x] Python - PyTorch, Django, Flask
 
 
