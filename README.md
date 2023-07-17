@@ -1,19 +1,14 @@
-<!--img width="100%" src="assets/headline.gif" -->
+Full-stack software dev. Passionate. Experienced.
 
-#### Full-stack software dev. Passionate. Experienced.
----
-- [x] Programming - Golang, JS, TS
-- [x] Databases - PostgreSQL, MongoDB
-- [x] DevOps - K8S, Docker, Bash, Linux
+- [x] Golang, JS, TS
+- [x] PostgreSQL, MongoDB
+- [x] K8S, Docker, Bash, Linux
 
 
-<h4 class="text-center"> Contact me </h4>
-<a href="https://t.me/AntonNesterov" target="_blank">
-<img height="25" src="assets/telegram.png">
-</a> <sup>&nbsp;</sup> <a href="https://www.linkedin.com/in/anton-alex-nesterov/" target="_blank">
-    <img height="25" src="assets/linkedin.png" />
-</a> <sup>&nbsp;</sup> <a href="mailto:arch.nesterov@gmail.com" target="_blank">
-<img height="25" src="assets/gmail.png">
-</a> 
+<sup>&nbsp;</sup><sup>&nbsp;</sup>Contacts: <sup>&nbsp;</sup> <a href="https://t.me/AntonNesterov" target="_blank">
+TG
+</a> | <a href="https://www.linkedin.com/in/anton-alex-nesterov/" target="_blank">
+    IN
+</a>
 
 
