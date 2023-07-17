@@ -2,11 +2,9 @@
 
 #### Full-stack software dev. Passionate. Experienced.
 ---
-- [x] JavaScript - Vanilla, TypeScript, Deno
-- [x] NodeJS - Express, TypeORM
+- [x] Programming - Golang, JS, TS
 - [x] Databases - PostgreSQL, MongoDB
-- [x] DevOps - K8S, Docker, Bash, CI/CD (gitlab, onedev)
-- [x] Python - PyTorch, Django, Flask
+- [x] DevOps - K8S, Docker, Bash, Linux
 
 
 <h4 class="text-center"> Contact me </h4>
