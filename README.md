@@ -1,3 +1,1 @@
-Full-stack software engineer. Passionate. Experienced.
-
-
+A lead engineer and software architect with more than twelve years of diverse experience in the field. An expert in systems design, databases, and cloud computing. Specializing in designing and developing high-load systems with Go and Node.js. I prefer to work on a contract basis.
