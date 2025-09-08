@@ -1,4 +1,4 @@
-An expert in data-driven automation and actionable intelligence. More than twelve years of diverse experience as a software engineer, product engieer and engineering manager. Currently focusing on *actionable intelligence* and *applied data science*.
+A software and product engineer focused on the practical application of machine learning and AI.
 
 #### Current projects:
 
