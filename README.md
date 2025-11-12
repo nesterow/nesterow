@@ -5,7 +5,7 @@ A software and product engineer focused on the practical application of machine 
 |  |  |
 |---------|-------|
 | ⊞ [vski·table](https://table.vski.ai) - A feature reach datagrid component built with Preact & Deno | Pet Project - building in public |
-| [vski](https://vski.sh) - Data Distillery Studio; Actionable Intelligence Engineering | ML & Core Engineering |
+| [vski](https://vski.sh) - Data distillery studio | ML & Core Engineering |
 | [vski·science](https://vski.science) - A Handbook on Engineering for Data-Driven Applications | Author, Main Contributor |
 
 
