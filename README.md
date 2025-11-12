@@ -1,13 +1,5 @@
-A software and product engineer focused on the practical application of machine learning and AI.
+I am an engineer. See my current projects:
 
-#### Current projects:
-
-|  |  |
-|---------|-------|
-| [vski·table](https://table.vski.ai) - A feature reach datagrid component built with Preact & Deno | Pet Project - building in public |
-| [vski](https://vski.sh) - Data distillery studio | ML & Core Engineering |
-| [vski·science](https://vski.science) - A Handbook on Engineering for Data-Driven Applications | Author, Main Contributor |
-
-
-
-I don't have time to contribute on github. Follow [this link](https://vski.science/) to get the up-to-date insights about my skills and experience. 
+- 🔢 vski·table - A rich datagrid being developed live: [web](https://table.vski.ai) | [repo 📌](https://github.com/vski-ai/table/).
+- 🚀 vski·sh - Data Distillery Studio - actionable intelligence engineering (ML & Core Engineering) 
+- 📚 vski·science - A Handbook on Engineering for Data-Driven Applications (Author & Main Contributor)
