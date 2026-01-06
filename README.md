@@ -1,7 +1,7 @@
 I am an engineer. See my current projects:
 
 - 🔢 vski·table - A rich datagrid being developed live: [web](https://table.vski.ai) | [repo](https://github.com/vski-ai/table/).
-- 💹 sol'idx - a distributed web3 indexer and aggregation engine: [repo][https://github.com/nesterow/solidx]
+- 💹 sol'idx - a distributed web3 indexer and aggregation engine: [repo](https://github.com/nesterow/solidx)
 - 🚀 vski·sh - Data Distillery Studio - actionable intelligence engineering [ML & Core Engineering] 
 - 📚 vski·science - A Handbook on Engineering for Data-Driven Applications [Author & Main Contributor]
 
