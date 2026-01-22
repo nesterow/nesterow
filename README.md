@@ -1,8 +1,9 @@
-I am an engineer. See my current projects:
+I am a full-stack platform engineer. See my current projects:
 
-- ♾️ vski·workflows - distributed durable execution engine: [web](https://emulator.vski.ai) | [repo](https://github.com/vski-ai/emulator/)
+- ⚡️ vski·sdk - sdk for vski rocketbase platform: [web](https://sdk.vski.ai) | [repo](https://github.com/vski-ai/sdk/)
+- ♾️ vski·emulator - a runner for vski rocketbase platform: [web](https://emulator.vski.ai) | [repo](https://github.com/vski-ai/emulator/)
 - 🔢 vski·table - rich datagrid being developed live: [web](https://table.vski.ai) | [repo](https://github.com/vski-ai/table/).
-- 💹 sol'idx - distributed web3 indexer and aggregation engine: [repo](https://github.com/nesterow/solidx)
+- 💹 sol'idx - distributed web3 indexer and aggregation engine (prototype): [repo](https://github.com/nesterow/solidx)
 - 🚀 vski·sh - Data Distillery Studio - actionable intelligence engineering [ML & Core Engineering] 
 - 📚 vski·science - A Handbook on Engineering for Data-Driven Applications [Author & Main Contributor]
 
