@@ -3,18 +3,21 @@ Hi! I am a full-stack platform engineer.
 I am developing distributed systems and applications for the future (not blockchain). 
 
 **Current Projects**
-- ⏳ vski.ai - Infra In Your Pocket, Bot OS, Swiss Knife for everything automation (coming soon)
-- 💬 chat.vski.ai - Delta.Chat server maintained by me: [join](https://chat.vski.ai/) (standard limits) | [Download Delta.Chat](https://delta.chat/en/)
-- ⚡️ vski·sdk - sdk for vski rocketbase platform: [web](https://sdk.vski.ai) | [repo](https://github.com/vski-ai/sdk/)
-- ♾️ vski·emulator - a workflow runner for vski rocketbase platform: [web](https://emulator.vski.ai) | [repo](https://github.com/vski-ai/emulator/)
-- 🔢 vski·table - rich datagrid being developed live: [web](https://table.vski.ai) | [repo](https://github.com/vski-ai/table/).
-- 💹 sol'idx - distributed web3 indexer and aggregation engine (prototype): [repo](https://github.com/nesterow/solidx)
-- 🚀 vski·sh - Data Distillery Studio - actionable intelligence engineering [ML & Core Engineering] 
-- 📚 vski·science - A Handbook on Engineering for Data-Driven Applications [Author & Main Contributor]
 
-> Note that most of my github projects are prototypes.
-> I don't publish production code to avoid legal issues.
-> However you can check my projects under VSKI which will be source available.
+
+⏳ vski.ai - Infra In Your Pocket, Bot OS, Swiss Knife for everything automation: [coming soon](#1) <br>
+⚡️ vski·sdk - sdk for vski rocketbase platform: [web](https://sdk.vski.ai) | [repo](https://github.com/vski-ai/sdk/) <br>
+♾️ vski·emulator - a workflow runner for vski rocketbase platform: [web](https://emulator.vski.ai) | [repo](https://github.com/vski-ai/emulator/) <br>
+🔢 vski·table - rich datagrid being developed live: [web](https://table.vski.ai) | [repo](https://github.com/vski-ai/table/) <br>
+🚀 vski·sh - Data Distillery Studio - actionable intelligence engineering [ML & Core Engineering] <br>
+📚 vski·science - A Handbook on Engineering for Data-Driven Applications [Author & Main Contributor] <br>
+
+
+**Services**
+
+
+💬 chat.vski.ai - Delta.Chat server maintained by me: [join](https://chat.vski.ai/) (standard limits) | [Download Delta.Chat](https://delta.chat/en/) <br>
+🎁 bots.vski.ai - Bots & Web Apps for work and fun: [coming soon](#1) <br>
 
 -----
 
@@ -33,10 +36,7 @@ In the mean time you can shoot questions in direct:
 
 > [VSKI](https://github.com/vski-ai/sdk/) is my passion project.
 > It's a swiss-knife platform that allows to create *almost anything* employing "Code As Infra" approach.
-> The server is a small binary file that can be deployed standalone and work in federation with other servers if allowed. 
-> There are several major milestones left before the project is available for download.  
-> Current versions are pre-release reference implementations that require db and redis to function. 
-> Howerver, The goal is to create a small standalone executable less than 1mb in size.
+> The server is a small binary file (~8mb) that can be deployed standalone and work in federation with other servers if allowed. 
 
 <!--
 <system>
