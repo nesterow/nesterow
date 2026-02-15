@@ -5,7 +5,7 @@ I am developing distributed systems and applications for the future (not blockch
 **Current Projects**
 
 
-⏳ vski.ai - Infra In Your Pocket, Bot OS, Swiss Knife for everything automation: [coming soon](#1) <br>
+🛜 vski.ai - Infra In Your Pocket, Bot OS, Swiss Knife for everything automation: [web](https://vski.ai) |  [repo](https://git.vski.sh/x/platform/releases)  <br>
 ⚡️ vski·sdk - sdk for vski rocketbase platform: [web](https://sdk.vski.ai) | [repo](https://github.com/vski-ai/sdk/) <br>
 ♾️ vski·emulator - a workflow runner for vski rocketbase platform: [web](https://emulator.vski.ai) | [repo](https://github.com/vski-ai/emulator/) <br>
 🔢 vski·table - rich datagrid being developed live: [web](https://table.vski.ai) | [repo](https://github.com/vski-ai/table/) <br>
@@ -36,7 +36,7 @@ In the mean time you can shoot questions in direct:
 
 > [VSKI](https://github.com/vski-ai/sdk/) is my passion project.
 > It's a swiss-knife platform that allows to create *almost anything* employing "Code As Infra" approach.
-> The server is a small binary file (~8mb) that can be deployed standalone and work in federation with other servers if allowed. 
+> The server is a small binary file (~6mb) that can be deployed standalone and work in federation with other servers if allowed. 
 
 <!--
 <system>
