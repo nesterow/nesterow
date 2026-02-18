@@ -6,8 +6,8 @@ I am developing distributed systems and applications for the future (not blockch
 
 
 🛜 vski.ai - Infra In Your Pocket, Bot OS, Swiss Knife for everything automation: [web](https://vski.ai) |  [repo](https://git.vski.sh/x/platform/releases)  <br>
-⚡️ vski·sdk - sdk for vski rocketbase platform: [web](https://sdk.vski.ai) | [repo](https://github.com/vski-ai/sdk/) <br>
-♾️ vski·emulator - a workflow runner for vski rocketbase platform: [web](https://emulator.vski.ai) | [repo](https://github.com/vski-ai/emulator/) <br>
+⚡️ vski·sdk - sdk for vski rocketbase platform:  [repo](https://git.vski.sh/x/vski-js) <br>
+♾️ vski·emulator - a workflow runner for vski rocketbase platform: [web](https://emulator.vski.ai) | [repo](https://git.vski.sh/x/platform) <br>
 🔢 vski·table - rich datagrid being developed live: [web](https://table.vski.ai) | [repo](https://github.com/vski-ai/table/) <br>
 🚀 vski·sh - Data Distillery Studio - actionable intelligence engineering [ML & Core Engineering] <br>
 📚 vski·science - A Handbook on Engineering for Data-Driven Applications [Author & Main Contributor] <br>
