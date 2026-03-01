@@ -6,7 +6,7 @@ I am developing distributed systems and applications for the future (not blockch
 
 
 🛜 vski.ai - Infra In Your Pocket, Bot OS, Swiss Knife for everything automation: [web](https://vski.ai) |  [repo](https://vski.sh/x/platform/releases)  <br>
-🚀 vski·sh - This is where my code lives [visit](https://vski.sh/) <br>
+🚀 vski·sh - This is where my code lives: [visit](https://vski.sh/) <br>
 🤖 vish - Simple IaC tool with Docker debug and MCP:  [repo](https://vski.sh/x/vish) <br>
 ⚡️ vski·sdk - SDK for vski.ai platform:  [repo](https://vski.sh/x/vski-js) <br>
 ♾️ vski·emulator - a workflow runner for vski.ai platform: [web](https://emulator.vski.ai) | [repo](https://vski.sh/x/platform) <br>
@@ -16,8 +16,8 @@ I am developing distributed systems and applications for the future (not blockch
 
 **Services**
 
-💬 chat.vski.ai - Delta.Chat server maintained by me: [join](https://chat.vski.ai/) (standard limits) | [Download Delta.Chat](https://delta.chat/en/) <br>
-📂 push.vski.ai - E2E File Sharing Service: [coming soon](#1) <br>
+💬 chat.vski.ai - Delta.Chat server maintained by me: [Join](https://chat.vski.ai/) | [Download Delta.Chat](https://delta.chat/en/) <br>
+📂 share.vski.ai - E2E File Sharing Service: [Visit](https://share.vski.ai/) | [Source Code](https://vski.sh/x/vishare) <br>
 🎁 bots.vski.ai - Bots & Web Apps for work and fun: [coming soon](#1) <br>
 
 
