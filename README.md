@@ -25,9 +25,10 @@ I am developing distributed systems and applications for the future (not blockch
 
 **Contacts**
 
-👽 [vski.app/@nesterow](https://vski.app/@nesterow) - Feed and Updates (Mastodon)
+[Mastodon](https://vski.app/@nesterow) - Feed and Updates
 
-Direct:
+Direct (Delta Chat):
+
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/3ff21288-c080-4125-be5d-d334ea84e06d" />
 
 -----
