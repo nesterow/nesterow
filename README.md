@@ -25,12 +25,9 @@ I am developing distributed systems and applications for the future (not blockch
 
 **Contacts**
 
-Currently I am not very active on the social networks. 
-I'll create a feed for updates without slop. 
-In the mean time you can shoot questions in direct:
+👽 [vski.app/@nesterow](https://vski.app/@nesterow) - Feed and Updates (Mastodon)
 
-👽 vski.app - microblogs and feeds: [soon](#1) <br>
-
+Direct:
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/3ff21288-c080-4125-be5d-d334ea84e06d" />
 
 -----
