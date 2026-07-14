@@ -1,10 +1,11 @@
 Hi! I am a full-stack platform engineer. 
 
-I am developing distributed systems and applications for the future (not blockchain). 
+I am developing distributed systems and applications for the future (not blockchain). <br>
+
+🦾 blog.vski.ai - My AI/ML Blog [web](https://blog.vski.ai/)
 
 **Current Projects**
 
-🦾 blog.vski.ai - My AI/ML Blog [web](https://blog.vski.ai/)
 🛜 vski.ai - Infra In Your Pocket, Bot OS, Swiss Knife for everything automation: [web](https://vski.ai) |  [repo](https://vski.sh/x/platform/releases)  <br>
 🚀 vski·sh - This is where my code lives: [visit](https://vski.sh/) <br>
 ♾️ vski·emulator - a workflow runner for vski.ai platform: [web](https://emulator.vski.ai) | [repo](https://vski.sh/x/platform) <br>
