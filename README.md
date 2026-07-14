@@ -2,7 +2,7 @@ Hi! I am a full-stack platform engineer.
 
 I am developing distributed systems and applications for the future (not blockchain). <br>
 
-🦾 blog.vski.ai - My AI/ML Blog [web](https://blog.vski.ai/)
+[🦾 My AI/ML Blog](https://blog.vski.ai/)
 
 **Current Projects**
 
